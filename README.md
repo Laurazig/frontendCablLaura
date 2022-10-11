@@ -1,4 +1,5 @@
-# Hack For Good @ Basislager coworking Leipzig 7-9th October 2022
+# Hack For Good 
+### @ Basislager coworking Leipzig 7-9th October 2022
 A team of 12 developers problem solving data compilation, storage and visualisation for the charity https://cab-leipzig.de. An NGO supporting people with no health insurance. The Leipzig office is part of a network of 22 locations nationwide which is due to double in the coming years. The issue is lack of funding as they are currently unable to fully display the high proportion of vulnerable users such as refugees, minors and pregnant women. 
 
 Our team created a couple of solutions for the charity. This Angular frontend app (stil in development) is part of a fullstack app and displays a login page, dashboard and visualisation of tabular data. Other parts of this project include a Python backend linked to MariaDB and Metabase to display the data in chart form.  
