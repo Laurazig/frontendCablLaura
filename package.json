@@ -2,7 +2,7 @@
   "type": "module",
   "name": "master",
   "version": "0.0.0",
-  "appName": "master-app",
+  "appName": "CABL",
   "apiName": "master-api/v1",
   "scripts": {
     "ng": "ng",
